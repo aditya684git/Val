@@ -142,10 +142,8 @@ const Index = () => {
 
         setEmailSent(true);
         console.log("✅ Email sent successfully!", result);
-        alert("Email sent successfully! 💕");
       } catch (error) {
         console.error("❌ Failed to send email:", error);
-        alert(`Failed to send email. Check console for details.`);
       }
     }
   };
