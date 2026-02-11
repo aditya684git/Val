@@ -28,7 +28,7 @@ const questions: Question[] = [
   },
   {
     question: "Best date we've ever had? 🎶",
-    options: ["Puri long drive", "Terra rosso", "What next", "cooking date(we made pesto pasta)"],
+    options: ["Puri long drive", "Terra rosso", "Let's Talk", "cooking date(we made pesto pasta)"],
     type: "choice",
   },
   {
